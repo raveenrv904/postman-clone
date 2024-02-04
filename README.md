@@ -1,8 +1,4 @@
----
-runme:
-  id: 01HNSAD6ZMG180JMMEG46KPRSQ
-  version: v2.2
----
+
 
 # Postman Clone
 
